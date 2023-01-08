@@ -34,7 +34,7 @@ from google.colab import files
 
 files.upload()
 
-"""## 2.2 Moving to Kaggle folder and copy the Kaggle.json file to it."""
+"""## 2.2 Moving to Kaggle folder and copy the Kaggle.json file to it"""
 
 !mkdir -p ~/.kaggle
 !cp kaggle.json ~/.kaggle/
