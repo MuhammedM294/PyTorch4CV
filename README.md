@@ -8,5 +8,5 @@ Contributions to this repository are welcome! If you would like to add your own 
 ## License
 The projects in this repository are licensed under the MIT License.
 
-## References 
-1. [Modern Computer Vision with PyTorch](https://www.amazon.com/Modern-Computer-Vision-PyTorch-applications/dp/1839213477)
+## Acknowledgement
+[Modern Computer Vision with PyTorch](https://www.amazon.com/Modern-Computer-Vision-PyTorch-applications/dp/1839213477)
